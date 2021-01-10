@@ -1,1 +1,1 @@
-# skyfriendlist
+# Friend list
