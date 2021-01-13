@@ -7,6 +7,6 @@ This project is in its embryonic stage. Feel free to collaborate and express you
 # Data type
 
 - [Profile](profile/README.md)
-- [Friend list](friendlist/README.md)
 - [Stream](stream/README.md)
     - [Post](stream/post/README.md)
+- [User Relations](user-relations/README.md)
