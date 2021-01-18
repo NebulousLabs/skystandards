@@ -6,7 +6,7 @@ This project is in its embryonic stage. Feel free to collaborate and express you
 
 # Data type
 
+- [Feed Page](feed-page/README.md)
+  - [Post](feed-page/post/README.md)
 - [Profile](profile/README.md)
-- [Stream](stream/README.md)
-    - [Post](stream/post/README.md)
 - [User Relations](user-relations/README.md)
